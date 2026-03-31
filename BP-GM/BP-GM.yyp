@@ -10,9 +10,9 @@
   },
   "defaultScriptType":1,
   "Folders":[
-    {"$GMFolder":"","%Name":"Buttplug.io","folderPath":"folders/Buttplug.io.yy","name":"Buttplug.io","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"private","folderPath":"folders/Buttplug.io/private.yy","name":"private","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"public","folderPath":"folders/Buttplug.io/public.yy","name":"public","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"BP-GM","folderPath":"folders/BP-GM.yy","name":"BP-GM","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"private","folderPath":"folders/BP-GM/private.yy","name":"private","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"public","folderPath":"folders/BP-GM/public.yy","name":"public","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Demo","folderPath":"folders/Demo.yy","name":"Demo","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],

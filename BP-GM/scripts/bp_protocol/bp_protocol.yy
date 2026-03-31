@@ -6,7 +6,7 @@
   "name":"bp_protocol",
   "parent":{
     "name":"private",
-    "path":"folders/Buttplug.io/private.yy",
+    "path":"folders/BP-GM/private.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

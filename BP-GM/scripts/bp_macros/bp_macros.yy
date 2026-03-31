@@ -6,7 +6,7 @@
   "name":"bp_macros",
   "parent":{
     "name":"public",
-    "path":"folders/Buttplug.io/public.yy",
+    "path":"folders/BP-GM/public.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

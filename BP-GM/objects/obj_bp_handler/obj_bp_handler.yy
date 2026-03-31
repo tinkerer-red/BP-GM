@@ -12,7 +12,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"private",
-    "path":"folders/Buttplug.io/private.yy",
+    "path":"folders/BP-GM/private.yy",
   },
   "parentObjectId":null,
   "persistent":false,

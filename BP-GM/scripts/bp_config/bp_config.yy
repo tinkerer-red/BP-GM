@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"bp_config",
   "parent":{
-    "name":"Buttplug.io",
-    "path":"folders/Buttplug.io.yy",
+    "name":"BP-GM",
+    "path":"folders/BP-GM.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",
