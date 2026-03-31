@@ -16,7 +16,11 @@ It is designed to provide a small public API for:
 
 ## Basic Setup
 
-You must first install **Intiface Central**, and set up the server to the port you wish to use. Then start the server.
+---
+
+### You must first install **Intiface Central**, and set up the server to the port you wish to use. Then start the server.
+
+---
 
 Call initialization once, register any callbacks you want, then connect.
 
