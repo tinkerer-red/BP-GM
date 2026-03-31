@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"bp_protocol",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"bp_protocol",
+  "parent":{
+    "name":"private",
+    "path":"folders/Buttplug.io/private.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

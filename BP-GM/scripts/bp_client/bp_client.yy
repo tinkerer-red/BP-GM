@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"bp_client",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"bp_client",
+  "parent":{
+    "name":"public",
+    "path":"folders/Buttplug.io/public.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

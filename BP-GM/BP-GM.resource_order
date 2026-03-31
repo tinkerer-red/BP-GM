@@ -1,0 +1,14 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Buttplug.io","order":6,"path":"folders/Buttplug.io.yy",},
+    {"name":"public","order":4,"path":"folders/Buttplug.io/public.yy",},
+    {"name":"Demo","order":8,"path":"folders/Demo.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"obj_bp_demo","order":1,"path":"objects/obj_bp_demo/obj_bp_demo.yy",},
+    {"name":"obj_bp_handler","order":1,"path":"objects/obj_bp_handler/obj_bp_handler.yy",},
+    {"name":"bp_client","order":2,"path":"scripts/bp_client/bp_client.yy",},
+    {"name":"bp_config","order":3,"path":"scripts/bp_config/bp_config.yy",},
+    {"name":"bp_macros","order":1,"path":"scripts/bp_macros/bp_macros.yy",},
+  ],
+}

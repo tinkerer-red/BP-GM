@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"bp_demo_util",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"bp_demo_util",
+  "parent":{
+    "name":"Demo",
+    "path":"folders/Demo.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

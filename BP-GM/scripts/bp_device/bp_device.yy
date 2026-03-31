@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"bp_device",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"bp_device",
+  "parent":{
+    "name":"public",
+    "path":"folders/Buttplug.io/public.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
