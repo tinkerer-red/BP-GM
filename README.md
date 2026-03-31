@@ -14,18 +14,13 @@ It is designed to provide a small public API for:
 
 - Intiface Central 3.0.3 ([Release](https://intiface.com/#intiface-central)) ([Github](https://github.com/intiface/intiface-central))
 
-Default connection target:
-- `ws://127.0.0.1:12345`
-
-## Included Scripts
-
-- `bp_client.gml` - client setup, connection, callbacks, frame update, async networking entry point
-- `bp_device.gml` - device queries and command helpers
-- `bp_protocol.gml` - internal protocol and message handling
-- `bp_config.gml` - protocol constants and defaults
-- `bp_macros.gml` - output types, input types, states, log levels, and error codes
-
 ## Basic Setup
+
+---
+
+### You must first install **Intiface Central**, and set up the server to the port you wish to use. Then start the server.
+
+---
 
 Call initialization once, register any callbacks you want, then connect.
 
