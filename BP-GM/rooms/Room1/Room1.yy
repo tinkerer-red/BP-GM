@@ -17,8 +17,8 @@
   ],
   "name":"Room1",
   "parent":{
-    "name":"BP-GM",
-    "path":"BP-GM.yyp",
+    "name":"Demo",
+    "path":"folders/Demo.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
